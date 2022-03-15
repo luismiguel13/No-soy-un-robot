@@ -1,2 +1,2 @@
-# No-soy-un-robot
+# No soy un robot
 Proyecto Inteligencia Artificial ll
