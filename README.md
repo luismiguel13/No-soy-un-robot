@@ -1,3 +1,5 @@
+<img src="https://i.ibb.co/VQq2Bp3/banner.png"  width="800px" height="300px">
+
 # No soy un robot
 Proyecto Inteligencia Artificial ll
 
